@@ -11,17 +11,18 @@ By utilizing Proteus, this project provides a robust platform for designing, tes
 C Language
 ## Components Required for Implementation (Proteus Software)
 Arduino Uno
-Battery
-Capacitor (ELEC)
-Diode
-Inductor
-Green LED
-LM016L (LCD)
-Buzzer
-LM35 (Temperature Sensor)
-Motor
-POT-HG (Potentiometer)
-Relay
-Soil Moisture Sensor
-Sounder
-This smart irrigation system showcases the potential of simulation tools like Proteus in enhancing agricultural practices. Join us in this innovative endeavor to save time and increase productivity in farming.
+,Battery
+,Capacitor (ELEC)
+,Diode
+,Inductor
+,Green LED
+,LM016L (LCD)
+,Buzzer
+,LM35 (Temperature Sensor)
+,Motor
+,POT-HG (Potentiometer)
+,Relay
+,Soil Moisture Sensor
+,Sounder.
+
+ This smart irrigation system showcases the potential of simulation tools like Proteus in enhancing agricultural practices. Join us in this innovative endeavor to save time and increase productivity in farming.
