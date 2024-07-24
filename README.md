@@ -26,3 +26,5 @@ Arduino Uno
 ,Sounder.
 
  This smart irrigation system showcases the potential of simulation tools like Proteus in enhancing agricultural practices. Join us in this innovative endeavor to save time and increase productivity in farming.
+
+# Implementation circuit in Proteus
