@@ -10,16 +10,26 @@ By utilizing Proteus, this project provides a robust platform for designing, tes
 ## Coding Language
 C Language
 ## Components Required for Implementation (Proteus Software)
-Arduino Uno (![image](https://github.com/user-attachments/assets/69a767e7-789d-4f86-8088-0a30226bebd6)
-)
-,Battery (![image](https://github.com/user-attachments/assets/730b266e-b659-4fa8-ae1c-0bfcb7386dc1)
-)
-,CAP-ELEC (![image](https://github.com/user-attachments/assets/0e042602-07fd-4d1c-9b22-dd9c26f81118)
-)
-,Diode (![image](https://github.com/user-attachments/assets/65be6803-7718-440d-83ff-3085e51b236e)
-)
-,Inductor (![image](https://github.com/user-attachments/assets/4d625c72-75f0-4357-8ce9-313b8e7bc2e5)
-)
+Arduino Uno ![image](https://github.com/user-attachments/assets/69a767e7-789d-4f86-8088-0a30226bebd6)
+
+
+
+,Battery ![image](https://github.com/user-attachments/assets/730b266e-b659-4fa8-ae1c-0bfcb7386dc1)
+
+
+
+,CAP-ELEC ![image](https://github.com/user-attachments/assets/0e042602-07fd-4d1c-9b22-dd9c26f81118)
+
+
+
+,Diode ![image](https://github.com/user-attachments/assets/65be6803-7718-440d-83ff-3085e51b236e)
+
+
+
+,Inductor ![image](https://github.com/user-attachments/assets/4d625c72-75f0-4357-8ce9-313b8e7bc2e5)
+
+
+
 ,Green LED (![image](https://github.com/user-attachments/assets/223ca2aa-c9ad-48a4-9c26-9d787a0d01be)
 )
 ,LM016L (LCD) (![image](https://github.com/user-attachments/assets/cc3bdfbd-6684-46e8-b4c9-64dd3cadbd99)
