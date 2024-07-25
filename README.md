@@ -84,3 +84,8 @@ Arduino Uno ![image](https://github.com/user-attachments/assets/69a767e7-789d-4f
 
 
 ![image](https://github.com/user-attachments/assets/fd4cc21e-d321-4cea-85da-fd9e836c2b14)
+
+
+
+## Follow me on linkedin to see how the simulation work
+account: moussine-tietibieka
